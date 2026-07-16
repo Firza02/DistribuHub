@@ -4,6 +4,7 @@ Web-based distributor management system built using Laravel and MySQL.
 
 ## Features
 
+- Dashboard Reporting
 - Product Management
 - Customer Management
 - Invoice Management
